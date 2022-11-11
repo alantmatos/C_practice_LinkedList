@@ -208,5 +208,5 @@ int main()
             printf("Exited successfully");
             break;
         }
-    }while(choice!=0);
+    }while(choice!=11);
 }
